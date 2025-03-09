@@ -2,6 +2,12 @@
 
 Welcome to the Great Hari repository!
 
+This repo and readme file is created using Windsurf, Cascade, MCP Server, I used Github MCP Server for this. There are dozens of other MCP servers available.
+
+## Promopt used:
+To Create Repo: Create a github repository "Great Hari"
+To Read this readme file: create a new README file and upload to github, our newly created repo.
+
 This repository serves as a central hub for exploring various aspects of Data Science, AI, and Machine Learning. Here, you will find resources, articles, and projects that reflect the journey and philosophy behind the Great Hari initiative.
 
 ## Features
